@@ -44,9 +44,10 @@ It will also be necessary a [Twitter Academic Account](https://developer.twitter
 
 # Acknowledgments
 
-I would like to express my gratitude to CNPq (Brazilian National Council for Scientific and Technological Development) for financing this research.
+I would like to express my gratitude to CNPq (Brazilian National Council for Scientific and Technological Development (311099/2021-1)) for financing this research.
 
-#Disclaimer
+
+# Disclaimer
 Please, note that some tweets might not be available when you do the scrapping. Besides, sometimes, Twitter API delivers a different set of data. 
 
 In this tutorial I am not going to cover [Gephi](https://gephi.org), used for network plotting. 
